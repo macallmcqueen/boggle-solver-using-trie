@@ -33,9 +33,12 @@ plausible paths.
 CONTENTS
 
 boggle_gui.py - contains the GUI for the boggle solver
+
 boggle_solver.py - contains the algorithm for finding all the words on a
 boggle board
+
 my_trie.py - contains the code for the trie tree data structure
+
 words.txt - a dictionary, used for finding valid words
 
 DISCLAIMER
