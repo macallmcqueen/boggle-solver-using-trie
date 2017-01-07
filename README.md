@@ -30,6 +30,14 @@ a huge time saver because we don't need to check every possible combination of
 consecutive letters on the board, since the trie will only guide us down 
 plausible paths.  
 
+CONTENTS
+
+boggle_gui.py - contains the GUI for the boggle solver
+boggle_solver.py - contains the algorithm for finding all the words on a
+boggle board
+my_trie.py - contains the code for the trie tree data structure
+words.txt - a dictionary, used for finding valid words
+
 DISCLAIMER
 
 This program is not affiliated with Hasbro, Inc., the manufacturer of 
